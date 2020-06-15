@@ -5,7 +5,7 @@
                    |  |_\___/\__, |\_,_\__,_|_\_\___|___/  |
                    |            |_|                        |
                    |                                       |
-                   `---------- http://ioquake3.org --------'
+                   `--------- http://ioquake3.org ---------'
 
 The intent of this project is to provide a baseline Quake 3 which may be used
 for further development and baseq3 fun.
